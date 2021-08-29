@@ -1,0 +1,10 @@
+lion
+giraffe
+elephant
+lynx
+dog
+monkey
+gorilla
+whale
+shark
+dolphin
